@@ -1,0 +1,77 @@
+RELATÓRIO DE VENDAS: LOJINHA DO UN1D3V
+Período: 01/01/2023 a 31/08/2023
+======================================================================================
+COD.        DESCRICAO                                    CATEGORIA             QTADE
+======================================================================================
+P357        Mouse Gamer 1800dpis                         Informática           0003670
+P001        Smartphone XZ Pro                            Eletrônicos           0001200
+P002        Notebook UltraBook 15"                       Informática           0000800
+P003        Smart TV LED 55" UHD                         Eletrônicos           0000500
+P004        Fones de Ouvido sem Fio                      Áudio                 0001500
+P005        Impressora Laser Monocromática               Informática           0000300
+P006        Máquina de Café Expresso                     Eletrodomésticos      0000200
+P007        Console de Video Game X-Station              Jogos                 0001000
+P008        Relógio Inteligente FitPro                   Eletrônicos           0002500
+P009        Câmera DSLR 24MP                             Fotografia            0000350
+P010        Tablets Android 10"                          Eletrônicos           0000450
+P011        Secador de Cabelo Profissional               Beleza                0000800
+P012        Máquina de Lavar Roupas EcoMax               Eletrodomésticos      0000400
+P013        Liquidificador de Alta Potência              Eletrodomésticos      0000750
+P014        Monitor de Computador 27"                    Informática           0000600
+P015        Mochila de Viagem Resistente                 Bagagem               0000900
+P016        Teclado Mecânico Gamer RGB                   Informática           0001100
+P017        Cadeira Ergonômica de Escritório             Móveis                0000300
+P018        Micro-ondas Inox 1000W                       Eletrodomésticos      0000350
+P019        Caixa de Som Bluetooth Portátil              Áudio                 0001200
+P020        Forno Elétrico de Convecção                  Eletrodomésticos      0000250
+P021        Impressora 3D Profissional                   Informática           0000100
+P022        Bicicleta de Montanha Enduro                 Esporte               0000400
+P023        Mala de Viagem Rígida 24"                    Bagagem               0000600
+P024        Aspirador de Pó Robô Inteligente             Eletrodomésticos      0000700
+P025        Lâmpada Inteligente LED                      Iluminação            0001500
+P026        Fritadeira de Ar Quente                      Eletrodomésticos      0000900
+P027        Cadeira de Massagem Shiatsu                  Saúde e Bem-Estar     0000350
+P028        Drone com Câmera 4K                          Fotografia            0000200
+P029        Bolsa de Notebook Resistente                 Informática           0000550
+P030        Tênis Esportivos de Corrida                  Calçados              0001200
+P031        Ventilador de Torre Silencioso               Eletrodomésticos      0000300
+P032        Cafeteira de Gotejamento com Timer           Eletrodomésticos      0000500
+P033        Móveis de Sala de Estar Modernos             Móveis                0000150
+P034        Conjunto de Panelas de Aço Inoxidável        Cozinha               0001000
+P035        Guitarra Elétrica de Alto Desempenho         Música                0000200
+P036        Relógio de Pulso Clássico                    Moda                  0000800
+P037        Máquina de Cortar Cabelo Profissional        Beleza                0000350
+P038        Impressora Multifuncional Laser              Informática           0000600
+P039        Mochila de Camping Resistente                Camping               0000400
+P040        Escova de Dentes Elétrica                    Beleza                0001200
+P041        Caixa de Som Hi-Fi com Bluetooth             Áudio                 0000450
+P042        Frigobar Compacto                            Eletrodomésticos      0000300
+P043        Conjunto de Malas de Viagem                  Bagagem               0000250
+P044        Liquidificador de Alta Velocidade            Eletrodomésticos      0000900
+P045        Mesa de Escritório Ergonômica                Móveis                0000600
+P046        Forno de Micro-ondas Compacto                Eletrodomésticos      0000350
+P047        Câmera de Ação 4K                            Fotografia            0000450
+P048        Caixa de Ferramentas Profissional            Ferramentas           0000500
+P049        Mesa de Jantar de Madeira Maciça             Móveis                0000200
+P050        Relógio de Parede Decorativo                 Decoração             0000700
+P051        Máquina de Lavar de Alta Capacidade          Eletrodomésticos      0000900
+P052        Notebook Gamer de 17''                       Informática           0000900
+P053        Projetor de Vídeo HD                         Eletrônicos           0000900
+P054        Caixa de Som Portátil à Prova d'Água         Áudio                 0000900
+P055        Fogão a Gás com Forno Duplo                  Eletrodomésticos      0000900
+P056        Câmera de Vídeo Profissional                 Fotografia            0000900
+P057        Forno Micro-ondas Inox com Grill             Eletrodomésticos      0000900
+P058        Teclado Bluetooth sem Fio                    Informática           0000900
+P059        Bicicleta de Estrada de Carbono              Esporte               0000900
+P060        Mala de Viagem Rígida 28''                   Bagagem               0000900
+P061        Robô de Limpeza Inteligente                  Eletrodomésticos      0000900
+P062        Luminária de Pé com Controle Remoto          Iluminação            0000900
+P063        Panela de Pressão Elétrica                   Cozinha               0000900
+P064        Violino Profissional                         Música                0000900
+P065        Relógio de Pulso Elegante                    Moda                  0000900
+P066        Aparador de Barba à Prova d'Água             Beleza                0000900
+P067        Roteador Wi-Fi de Alta Velocidade            Informática           0000900
+P068        Barraca de Camping Familiar                  Camping               0000900
+P069        Escova de Dentes Sônica de Luxo              Beleza                0000900
+P070        Caixa de Som Surround para Home Theater      Áudio                 0000900
+======================================================================================
