@@ -55,7 +55,7 @@ P048        Caixa de Ferramentas Profissional            Ferramentas           0
 P049        Mesa de Jantar de Madeira Maciça             Móveis                0000200
 P050        Relógio de Parede Decorativo                 Decoração             0000700
 P051        Máquina de Lavar de Alta Capacidade          Eletrodomésticos      0000900
-P052        Notebook Gamer de 17''                       Informática           0000900
+P052        Notebook Gamer de 17"                        Informática           0000900
 P053        Projetor de Vídeo HD                         Eletrônicos           0000900
 P054        Caixa de Som Portátil à Prova d'Água         Áudio                 0000900
 P055        Fogão a Gás com Forno Duplo                  Eletrodomésticos      0000900
@@ -63,7 +63,7 @@ P056        Câmera de Vídeo Profissional                 Fotografia           
 P057        Forno Micro-ondas Inox com Grill             Eletrodomésticos      0000900
 P058        Teclado Bluetooth sem Fio                    Informática           0000900
 P059        Bicicleta de Estrada de Carbono              Esporte               0000900
-P060        Mala de Viagem Rígida 28''                   Bagagem               0000900
+P060        Mala de Viagem Rígida 28"                    Bagagem               0000900
 P061        Robô de Limpeza Inteligente                  Eletrodomésticos      0000900
 P062        Luminária de Pé com Controle Remoto          Iluminação            0000900
 P063        Panela de Pressão Elétrica                   Cozinha               0000900
